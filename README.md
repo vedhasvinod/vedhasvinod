@@ -13,7 +13,8 @@
   <li><b>Pizza Sales Data Analysis Project</b><br/>
     <ul>
       <li><i>Tools:</i> SQL, Excel</li>
-      <li>Performed detailed analysis of pizza sales data using SQL queries and Excel charts to uncover business insights like total revenue, average order value, and best-selling pizzas.</li>
+      <li>Performed detailed analysis of pizza sales data using SQL queries and Excel dashboard visualizations to uncover key business insights including revenue breakdown, order trends, and product performance.</li>
+      <li>📂 <a href="data/PizzaSalesProject.xlsx">Excel File</a> | 📄 <a href="sql/pizza_sql_queries.pdf">SQL Queries</a> | 📊 <a href="visuals/dashboard_screenshot.png">Dashboard Preview</a></li>
     </ul>
   </li>
 </ul>
@@ -21,9 +22,9 @@
 <h2>📜 Certifications:</h2>
 <ul>
   <li><b>IBM SQL for Data Science Certification</b><br/>
-      Certification Number: <code>a03ee56ea5bc41d7a368ca9e26ab531a</code></li>
+      <a href="https://courses.edx.org/certificates/a03ee56ea5bc41d7a368ca9e26ab531a">View Certificate</a> (ID: <code>a03ee56ea5bc41d7a368ca9e26ab531a</code>)</li>
   <li><b>Google Data Analytics Certification</b><br/>
-      Credential ID: <code>99J1MPKTU9KW</code></li>
+      <a href="https://coursera.org/verify/professional-cert/99J1MPKTU9KW">View Certificate</a> (ID: <code>99J1MPKTU9KW</code>)</li>
   <li><b>IBM Data Analytics Professional Certification</b> (Expected April 2025)</li>
 </ul>
 
