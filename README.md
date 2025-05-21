@@ -28,6 +28,8 @@
   <li><b>Google Data Analytics Certification</b><br/>
       <a href="https://coursera.org/verify/professional-cert/99J1MPKTU9KW">View Certificate</a> (ID: <code>99J1MPKTU9KW</code>)</li>
   <li><b>IBM Data Analytics Professional Certification</b> (Expected April 2025)</li>
+  <li><b>Deloitte Data Analytics Job Simulation</b><br/>
+      <a href="https://github.com/vedhasvinod/vedhasvinod/blob/main/Deloitte%20Certification.pdf">View Certificate</a> (Completed May 2025)</li>
 </ul>
 
 <h2>📢 Connect with Me:</h2>
@@ -35,4 +37,3 @@
   <li><a href="https://www.linkedin.com/in/vedhas-vinod-a630a1302">LinkedIn</a></li>
   <li><a href="https://github.com/vedhasvinod">GitHub</a></li>
 </ul>
-
