@@ -1,39 +1,42 @@
-<h1>Hi, I'm Vedhas! <br/>
-<a href="https://github.com/vedhasvinod">Data Analyst</a>, <a href="https://www.linkedin.com/in/vedhas-vinod-a630a1302">Data Science Student</a></h1>
+# Hi, I'm Vedhas!  
+### *Data Analyst, Data Science Student*
 
-<h2>📊 About Me:</h2>
-<p>
-  I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University, graduating in May 2027.
-  I am passionate about solving real-world problems using data, and I enjoy transforming raw information into actionable insights.
-  My interests include data analysis, business intelligence, SQL, and data storytelling. I'm consistently looking to grow my technical toolkit and contribute to meaningful analytical projects.
-</p>
+## 📊 About Me:
+I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University, graduating in May 2027. I am passionate about solving real-world problems using data, and I enjoy transforming raw information into actionable insights. My interests include data analysis, business intelligence, SQL, and data storytelling. I'm consistently looking to grow my technical toolkit and contribute to meaningful analytical projects.
 
-<h2>📁 Data Analysis Projects:</h2>
-<ul>
-  <li><b>Pizza Sales Data Analysis Project</b><br/>
-    <ul>
-      <li><i>Tools:</i> SQL, Excel</li>
-      <li>Performed detailed analysis of pizza sales data using SQL queries and Excel dashboard visualizations to uncover key business insights including revenue breakdown, order trends, and product performance.</li>
-      <li>📂 <a href="https://github.com/vedhasvinod/pizza-sales-analysis/blob/main/data/PizzaSalesProject.xlsx">Excel File</a> |
-          📄 <a href="https://github.com/vedhasvinod/pizza-sales-analysis/blob/main/sql/pizza_sql_queries.pdf">SQL Queries</a> |
-          📊 <a href="https://github.com/vedhasvinod/pizza-sales-analysis/blob/main/visuals/dashboard_screenshot.png">Dashboard Preview</a></li>
-    </ul>
-  </li>
-</ul>
+---
 
-<h2>📜 Certifications:</h2>
-<ul>
-  <li><b>IBM SQL for Data Science Certification</b><br/>
-      <a href="https://courses.edx.org/certificates/a03ee56ea5bc41d7a368ca9e26ab531a">View Certificate</a> (ID: <code>a03ee56ea5bc41d7a368ca9e26ab531a</code>)</li>
-  <li><b>Google Data Analytics Certification</b><br/>
-      <a href="https://coursera.org/verify/professional-cert/99J1MPKTU9KW">View Certificate</a> (ID: <code>99J1MPKTU9KW</code>)</li>
-  <li><b>IBM Data Analytics Professional Certification</b> (Expected April 2025)</li>
-  <li><b>Deloitte Data Analytics Job Simulation</b><br/>
-      <a href="https://github.com/vedhasvinod/vedhasvinod/blob/main/Deloitte%20Certification.pdf">View Certificate</a> (Completed May 2025)</li>
-</ul>
+## 💼 Data Analysis Projects
 
-<h2>📢 Connect with Me:</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/vedhas-vinod-a630a1302">LinkedIn</a></li>
-  <li><a href="https://github.com/vedhasvinod">GitHub</a></li>
-</ul>
+### 🏦 Banking Data Analytics Dashboard
+**Tools:** Power BI, SQL, Python, Excel  
+- Built a 3-page interactive dashboard analyzing customer loans, deposits, and savings across demographics  
+- Performed EDA in Colab and created SQL-driven KPIs to segment \$2B+ in assets  
+- Published PDF visuals, SQL queries, and Python notebook to a polished GitHub portfolio  
+📄 [Dashboard PDF](https://github.com/vedhasvinod/banking-data-dashboard/blob/main/Banking.pdf)  
+📊 [Colab Notebook](https://github.com/vedhasvinod/banking-data-dashboard/blob/main/mysqlbanking.ipynb)  
+📁 [Dataset](https://github.com/vedhasvinod/banking-data-dashboard/blob/main/Banking_Cleaned.csv)
+
+---
+
+### 🍕 Pizza Sales Data Analysis Project  
+**Tools:** SQL, Excel  
+- Performed detailed analysis of pizza sales data using SQL queries and Excel dashboard visualizations to uncover key business insights including revenue breakdown, order trends, and product performance  
+📊 [Excel File](https://github.com/vedhasvinod/pizza-sales-analysis/blob/main/dashboard.xlsx)  
+📜 [SQL Queries](https://github.com/vedhasvinod/pizza-sales-analysis/blob/main/sql_queries.pdf)  
+🖼️ [Dashboard Preview](https://github.com/vedhasvinod/pizza-sales-analysis/blob/main/dashboard_screenshot.png)
+
+---
+
+## 🎓 Certifications
+- IBM SQL for Data Science Certification  
+- Google Data Analytics Certification  
+- IBM Data Analytics Professional Certification *(Expected April 2025)*  
+- Deloitte Data Analytics Job Simulation *(Completed May 2025)*
+
+---
+
+## 🤝 Connect with Me  
+📫 vedhas.vinod@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/vedhas-vinod-a630a1302)  
+💻 [GitHub](https://github.com/vedhasvinod)  
