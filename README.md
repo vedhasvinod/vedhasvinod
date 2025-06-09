@@ -32,7 +32,7 @@ I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University
 - IBM SQL for Data Science Certification  
 - Google Data Analytics Certification  
 - IBM Data Analytics Professional Certification
-- Deloitte Data Analytics Job Simulation *(Completed May 2025)*
+- Deloitte Data Analytics Job Simulation
 
 ---
 
