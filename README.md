@@ -6,9 +6,20 @@ I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University
 
 ---
 
-## 💼 Data Analysis Projects
+## 📁 Data Portfolio Projects
 
-### 🏦 Banking Data Analytics Dashboard
+### 🏈 Fantasy Football ML Project  
+**Tools:** Python, Tableau, Colab, Scikit-learn  
+- Built custom underrated scoring models using fantasy stats and expert projections by position  
+- Applied machine learning logic (manual linear regression coefficients) to weight positional performance metrics  
+- Visualized top 5 most underrated players per position with dashboard storytelling in Tableau  
+📊 [Tableau Dashboard](https://public.tableau.com/app/profile/vedhas.vinod/viz/Book1_17524641655870/Home?publish=yes)  
+📓 [Colab Notebook](https://github.com/vedhasvinod/underrated-fantasy-football-analysis/blob/main/Fantasy%20Project/Fantasy_Football_Colab.ipynb)  
+📁 [GitHub Repo](https://github.com/vedhasvinod/underrated-fantasy-football-analysis)
+
+---
+
+### 🏦 Banking Data Analytics Dashboard  
 **Tools:** Power BI, SQL, Python, Excel  
 - Built a 3-page interactive dashboard analyzing customer loans, deposits, and savings across demographics  
 - Performed EDA in Colab and created SQL-driven KPIs to segment \$2B+ in assets  
@@ -28,10 +39,10 @@ I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications  
 - IBM SQL for Data Science Certification  
 - Google Data Analytics Certification  
-- IBM Data Analytics Professional Certification
+- IBM Data Analytics Professional Certification  
 - Deloitte Data Analytics Job Simulation
 
 ---
@@ -39,4 +50,4 @@ I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University
 ## 🤝 Connect with Me  
 📫 vedhas.vinod@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vedhas-vinod-a630a1302)  
-💻 [GitHub](https://github.com/vedhasvinod)  
+💻 [GitHub](https://github.com/vedhasvinod)
