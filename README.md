@@ -8,6 +8,17 @@ I'm currently pursuing a Bachelor's degree in Data Science at Rutgers University
 
 ## 📁 Data Portfolio Projects
 
+### 🎵 Apple Music Data Analytics Project  
+**Tools:** Python, SQL, Tableau, Colab  
+- Analyzed 6 years of personal Apple Music listening history (400K+ records) to uncover trends in top artists, genres, skip behavior, and playlist engagement  
+- Built SQL and Python pipelines to clean, transform, and calculate KPIs  
+- Created 5 Tableau dashboards visualizing time-of-day listening, playlist completion, and artist trends  
+📊 [Tableau Dashboards](https://github.com/vedhasvinod/apple-music-data-analytics/tree/main/tableau)  
+📓 [Colab Notebook](https://github.com/vedhasvinod/apple-music-data-analytics/blob/main/Final_AppleMusicProject.ipynb)  
+📁 [GitHub Repo](https://github.com/vedhasvinod/apple-music-data-analytics)
+
+---
+
 ### 🏈 Fantasy Football ML Project  
 **Tools:** Python, Tableau, Colab, Scikit-learn  
 - Built custom underrated scoring models using fantasy stats and expert projections by position  
